@@ -1,3 +1,8 @@
-p{
-    align-items: center;
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+
+form{
+    border: 3px solid black;
 }
