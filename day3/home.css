@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    display: flex;
+    background-color: rgb(56, 56, 56);
+    height: 70px;
+    justify-content: space-between;
+    
+}
+
+.item{
+    color: white;
+    font-size: large;
+    align-content: center;
+    margin-right: 30px;
+    
+}
+
+.member{
+    display: flex;
+    justify-content: space-between;
+}
+
+.c1{
+    align-content: center;
+    margin-right: 90px;
+}
+
+.logo{
+    margin-top: 10px;
+    margin-left: 20px;
+    background-image: url(tab_logo.png);
+    height: 50px;
+    width: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+
+}
+
+button{
+    padding: 10px 10px 10px;
+    margin-right: 30px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.main-content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.news{
+    background-color: aquamarine;
+    height: 500px;
+    width: 33.3%;
+    font-size: xx-large;
+    align-content: center;
+    text-align: center;
+}
+
+.about{
+    background-color: bisque;
+    height: 500px;
+    width: 33.3%;
+    font-size: xx-large;
+    align-content: center;
+    text-align: center;
+}
+
+.login-panal{
+    background-color: azure;
+    height: 500px;
+    width: 33.3%;
+}
